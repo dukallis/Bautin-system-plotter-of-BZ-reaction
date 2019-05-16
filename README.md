@@ -1,5 +1,5 @@
 # Bautin system plotter of BZ reaction
-My simple first project ever using QT
+My simple first project using QT
 
 Simple plotter for Bautin 2D dynamical system.
 Solution derived with explicit RK4 method (fixed step).
