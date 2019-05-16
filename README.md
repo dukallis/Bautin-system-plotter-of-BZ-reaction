@@ -1,4 +1,4 @@
-# Bautin-system-plotter-of-BZ-reaction
+# Bautin system plotter of BZ reaction
 My simple first project ever using QT
 
 Simple plotter for Bautin 2D dynamical system.
